@@ -77,7 +77,7 @@ Percussion (4 players) \
 #h(2em)Glockenspiel \
 #h(2em)Tubular Bells \
 #h(2em)Bass Drum \
-#h(2em)Clash Cymbals \
+#h(2em)Piatti \
 #h(2em)Suspended Cymbal \
 #h(2em)Tam-tam \
 #h(2em)Whip \
