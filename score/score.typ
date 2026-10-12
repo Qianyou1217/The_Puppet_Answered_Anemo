@@ -29,11 +29,11 @@
 
 #align(left)[
   #block(width: auto)[
-    QIANYOU HUANG \
+    QIANYOU HUANG
 
     #align(center)[
-      #text(features: ("ss04",))[
-        ()
+      #text(features: ("ornm",), font: ("Junicode",))[
+        AB
       ]
     ]
   ]
@@ -49,8 +49,8 @@
 #v(1fr)
 
 #place(center)[
-    #text(features: ("ss04",))[
-        <>
+    #text(features: ("ornm",), font: ("Junicode",))[
+      po
     ]
 ]
 
