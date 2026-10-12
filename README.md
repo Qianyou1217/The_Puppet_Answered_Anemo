@@ -1,6 +1,4 @@
 # The Puppet Answered Anemo / 風應之偶
-<img width="7015" height="9921" alt="Score" src="https://github.com/user-attachments/assets/afce8047-e936-42f6-a833-46136634c15a" />
-
 
 [正體中文](#前言)｜[English](#preface)
 
