@@ -50,7 +50,7 @@
 
 #place(center)[
     #text(features: ("ornm",), font: ("Junicode",))[
-      po
+      op
     ]
 ]
 
