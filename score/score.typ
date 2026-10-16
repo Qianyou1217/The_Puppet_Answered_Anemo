@@ -48,7 +48,7 @@
 
 #v(1fr)
 
-#place(center)[
+#align(center)[
     #text(features: ("ornm",), font: ("Junicode",))[
       op
     ]
