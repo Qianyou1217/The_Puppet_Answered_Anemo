@@ -7,7 +7,34 @@
 
 於配器方面參考了拉威爾的《庫普蘭之墓》和拉威爾的《為已逝公主的孔雀舞曲》。
 
+
+
 ## Preface
 This piece is fan-made Wanderer charater theme. Licensed under Creative Common Attribution 4.0 International (CC BY 4.0).
 
-At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel) and *Pavane pour une infante défunte* (Maurice Ravek). 
+At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel) and *Pavane pour une infante défunte* (Maurice Ravek).
+
+## Instrumentation
+- Piccolo
+- 2 Flutes
+- 2 Oboes
+- Cor anglais
+- 2 Clarinets in B♭
+- Bass Clarinet in B♭
+- 2 Bassoons
+- 4 Horns in F
+- 2 Trumpets in C
+- 2 Tenor Trumbones
+- Bass Trumbone
+- 3 Timpani (B♭2,  C3,  E♭3)
+- Percussion (4 players)
+    - Glockenspiel
+    - Tubular Bells
+    - Bass Drum
+    - Piatti
+    - Suspended Cymbal
+    - Tam-tam
+    - Whip
+- Harp
+- Celesta
+- Strings

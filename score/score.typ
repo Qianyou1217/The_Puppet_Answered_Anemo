@@ -63,7 +63,6 @@
 Piccolo \
 2 Flutes \
 2 Oboes \
-#h(2em)Oboe II doubling Cor anglais \
 Cor anglais \
 2 Clarinets in B♭ \
 Bass Clarinet in B♭ \
@@ -72,7 +71,7 @@ Bass Clarinet in B♭ \
 2 Trumpets in C \
 2 Tenor Trombones \
 Bass Trombone \
-Timpani \
+3 Timpani (B♭2,  C3,  E♭3) \
 Percussion (4 players) \
 #h(2em)Glockenspiel \
 #h(2em)Tubular Bells \
@@ -89,4 +88,4 @@ Strings
 
 #align(center)[
     Duration: ca. 9′
-]
+] 
