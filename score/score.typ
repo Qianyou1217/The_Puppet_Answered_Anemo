@@ -19,6 +19,8 @@
 
 #show heading: set align(center)
 
+#show heading.where(level: 1): upper
+
 #show heading.where(level: 2): set text(
   style: "italic",
 )
@@ -29,7 +31,7 @@
 
 #align(left)[
   #block(width: auto)[
-    QIANYOU HUANG
+    QIANYOU HUANG 
 
     #align(center)[
       #text(features: ("ornm",), font: ("Junicode",))[
@@ -42,23 +44,24 @@
 #v(1fr)
 
 #place(center + horizon)[
-= THE PUPPET ANSWERED BY ANEMO
-== Fan-made Theme for Wanderer
+  = The Puppet Answered by Anemo
+  == Fan-made Theme for Wanderer
 ]
 
 #v(1fr)
 
 #align(center)[
-    #text(features: ("ornm",), font: ("Junicode",))[
-      op
-    ]
+#image(
+  "images/monogram.png",
+  width: 20%
+)
 ]
 
 #v(1fr)
 
 #pagebreak()
 
-= INSTRUMENTATION
+= instrumentation
 
 Piccolo \
 2 Flutes \
@@ -87,5 +90,5 @@ Strings
 #v(1fr)
 
 #align(center)[
-    Duration: ca. 9′
-] 
+    Duration: ca. 10′
+]
