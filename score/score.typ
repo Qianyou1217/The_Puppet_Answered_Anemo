@@ -44,17 +44,17 @@
 #v(1fr)
 
 #place(center + horizon)[
-  = The Puppet Answered by Anemo
+  = the puppet answered by anemo
   == Fan-made Theme for Wanderer
 ]
 
 #v(1fr)
 
 #align(center)[
-#image(
-  "images/monogram.png",
-  width: 20%
-)
+  #image(
+    "images/monogram.png",
+    width: 20%
+  )
 ]
 
 #v(1fr)
