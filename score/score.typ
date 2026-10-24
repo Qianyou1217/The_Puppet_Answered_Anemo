@@ -76,7 +76,6 @@ Bass Clarinet in B♭ \
 Bass Trombone \
 3 Timpani (B♭2,  C3,  E♭3) \
 Percussion (4 players) \
-#h(2em)Glockenspiel \
 #h(2em)Tubular Bells \
 #h(2em)Bass Drum \
 #h(2em)Piatti \

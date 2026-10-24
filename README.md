@@ -28,7 +28,6 @@ At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel
 - Bass Trumbone
 - 3 Timpani (B♭2,  C3,  E♭3)
 - Percussion (4 players)
-    - Glockenspiel
     - Tubular Bells
     - Bass Drum
     - Piatti
