@@ -11,6 +11,7 @@
 #set text(
   font: ( 
     "EB Garamond",
+    "Libertinus Serif"
 ),
   number-type: "lining",
   number-width: "tabular",
@@ -78,7 +79,7 @@
   [2], [Flutes],
   [2], [Oboes],
   [],  [Cor Anglais],
-  [2], [Clarinets in B#text(font: "Libertinus Serif")[♭]],
+  [2], [Clarinets in B♭],
   [],  [Bass Clarinet in B♭],
   [2], [Bassoons],
   grid.cell(
