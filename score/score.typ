@@ -26,10 +26,6 @@
 
 #show heading.where(level: 1): upper
 
-#show heading.where(level: 2): set text(
-  style: "italic",
-)
-
 #show heading: set text(
   weight: "regular",
 )
