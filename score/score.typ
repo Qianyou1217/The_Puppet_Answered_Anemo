@@ -78,7 +78,7 @@
   [2], [Flutes],
   [2], [Oboes],
   [],  [Cor Anglais],
-  [2], [Clarinets in B♭],
+  [2], [Clarinets in B#text(font: "Libertinus Serif")[♭]],
   [],  [Bass Clarinet in B♭],
   [2], [Bassoons],
   grid.cell(
