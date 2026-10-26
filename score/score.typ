@@ -74,7 +74,7 @@
 
 #grid(
   columns: (auto, auto),
-  column-gutter: 1em,
+  column-gutter: 0.55em,
   row-gutter: 0.55em,
   align: (right, left),
 
