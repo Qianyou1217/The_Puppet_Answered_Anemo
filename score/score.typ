@@ -119,5 +119,5 @@
 #v(1fr)
 
 #align(center)[
-    Duration: ca. 10′
+    Duration: ca. 11′
 ]
