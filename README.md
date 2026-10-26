@@ -24,8 +24,8 @@ At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel
 - 2 Bassoons   
 - 4 Horns in F
 - 2 Trumpets in C
-- 2 Tenor Trumbones
-- Bass Trumbone   
+- 2 Tenor Toumbones
+- Bass Trombone   
 - Timpani
 - Tubular Bells
 - Bass Drum
