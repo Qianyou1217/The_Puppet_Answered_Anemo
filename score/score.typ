@@ -72,31 +72,49 @@
 
 = instrumentation
 
-Piccolo\
-2 Flutes\
-2 Oboes\
-Cor anglais\
-2 Clarinets in B♭\
-Bass Clarinet in B♭\
-2 Bassoons
+#grid(
+  columns: (auto, auto),
+  column-gutter: 1em,
+  row-gutter: 0.55em,
+  align: (right, left),
 
-4 Horns in F\
-Trumpet in C\
-2 Tenor Trombones\
-Bass Trombone
-
-Timpani\
-Tubular Bells\
-Bass Drum\
-Piatti\
-Suspended Cymbal\
-Tam-tam\
-Whip
-
-Harp\
-Celesta
-
-Strings
+  [],  [Piccolo],
+  [2], [Flutes],
+  [2], [Oboes],
+  [],  [Cor Anglais],
+  [2], [Clarinets in B♭],
+  [],  [Bass Clarinet in B♭],
+  [2], [Bassoons],
+  grid.cell(
+    colspan: 2
+    )[
+    #v(0.45em)
+  ],
+  [4], [Horns in F],
+  [2], [Trumpets in C],
+  [2], [Tenor Trombones],
+  [],  [Bass Trombone],
+  grid.cell(
+    colspan: 2
+    )[
+    #v(0.45em)
+  ],
+  [],  [Timpani],
+  [],  [Tubular Bells],
+  [],  [Bass Drum],
+  [],  [Piatti],
+  [],  [Suspended Cymbal],
+  [],  [Tam-tam],
+  [],  [Whip],
+  grid.cell(
+    colspan: 2
+    )[
+    #v(0.45em)
+  ],
+  [],  [Harp],
+  [],  [Celesta],
+  [],  [Strings],
+)
 
 #v(1fr)
 
