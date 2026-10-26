@@ -21,19 +21,18 @@ At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel
 - Cor anglais
 - 2 Clarinets in B♭
 - Bass Clarinet in B♭
-- 2 Bassoons
+- 2 Bassoons   
 - 4 Horns in F
 - 2 Trumpets in C
 - 2 Tenor Trumbones
-- Bass Trumbone
-- 3 Timpani (B♭2,  C3,  E♭3)
-- Percussion (4 players)
-    - Tubular Bells
-    - Bass Drum
-    - Piatti
-    - Suspended Cymbal
-    - Tam-tam
-    - Whip
+- Bass Trumbone   
+- Timpani
+- Tubular Bells
+- Bass Drum
+- Piatti
+- Suspended Cymbal
+- Tam-tam
+- Whip   
 - Harp
-- Celesta
+- Celesta   
 - Strings
