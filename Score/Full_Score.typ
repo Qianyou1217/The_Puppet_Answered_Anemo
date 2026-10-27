@@ -20,7 +20,7 @@
 
 #set par(
   leading: 0.55em,
-  spacing: 1.55em,
+  spacing: 0.55em,
 )
 
 #set align(center)
