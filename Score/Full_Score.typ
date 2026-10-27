@@ -53,7 +53,7 @@
 
 #align(center)[
   #image(
-    "images/monogram.png",
+    "Images/Monogram.png",
     width: 20%
   )
 ]
