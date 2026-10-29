@@ -23,7 +23,7 @@ At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel
 - Bass Clarinet in B♭
 - 2 Bassoons
 - 4 Horns in F
-- 2 Trumpets in C
+- Trumpet in C
 - 2 Tenor Toumbones
 - Bass Trombone
 - Timpani
