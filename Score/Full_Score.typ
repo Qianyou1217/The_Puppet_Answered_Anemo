@@ -25,6 +25,8 @@
 
 #set align(center)
 
+#show heading: smallcaps
+
 #show heading.where(level: 1): upper
 
 #show heading: set text(
