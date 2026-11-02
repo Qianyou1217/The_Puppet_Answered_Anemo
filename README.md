@@ -12,7 +12,7 @@
 ## Preface
 This piece is fan-made Wanderer charater theme. Licensed under Creative Common Attribution 4.0 International (CC BY 4.0).
 
-At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel) and *Pavane pour une infante défunte* (Maurice Ravek).
+At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel) and *Pavane pour une infante défunte* (Maurice Ravel).
 
 ## Instrumentation
 - Piccolo
