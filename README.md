@@ -12,9 +12,9 @@
 ## Preface
 This piece is fan-made Wanderer charater theme. Licensed under Creative Common Attribution 4.0 International (CC BY 4.0).
 
-At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel),  *Pavane pour une infante défunte* (Maurice Ravel) and *Piano Concerto for "Left Hand" in D major* (Maurice Ravel).
+At Orchestration, I have get inspired by *Le Tombeau de Couperin* (Maurice Ravel),  *Pavane pour une infante défunte* (Maurice Ravel) and *Piano Concerto for the "Left Hand" in D major* (Maurice Ravel).
 
-## Instrumentation
+## Instrumentation 
 - Piccolo
 - 2 Flutes
 - 2 Oboes
